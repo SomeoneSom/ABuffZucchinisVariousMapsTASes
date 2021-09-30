@@ -1,6 +1,22 @@
-
+console load ABuffZucchiniCollab/0-Lobbies/1-Lobby 1384 392
    1
 
 #Start
 #lvl_LobbyRoom
   36
+  10,L,X
+   5,L,J
+  14,L,U,X
+   6,L,J,G
+   2,L
+   5,L,K,G
+   7,L
+   4,J
+  16,U,X
+  94,L,D,C
+  15,L,X
+  13,L,Z
+   3,L,J
+  37,L,D,C
+   1,X
+#0:03.587(211)
