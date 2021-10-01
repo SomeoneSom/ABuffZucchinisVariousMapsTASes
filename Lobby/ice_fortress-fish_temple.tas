@@ -12,9 +12,10 @@ console load ABuffZucchiniCollab/0-Lobbies/1-Lobby 1384 392
    5,L,K,G
    7,L
    4,J
-  16,U,X
-  94,L,D,C
-  69,R,D,X
-  29,R,D,C
+  16,U,C
+  94,L,D,X
+  69,R,D,C
+  17,R,D,X
+  16,R,D,C
    1,X
-#0:04.148(244)
+#0:04.165(245)
