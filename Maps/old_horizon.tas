@@ -1,6 +1,6 @@
-#TASers: atpx8
-RecordCount: 290
-ChapterTime: 0:47.889(2817)
+#TASers: atpx8 and abiteofdata
+RecordCount: 480
+ChapterTime: 0:45.118(2654)
 console load ABuffZucchiniCollab/1-Lobby/OldHorizon
    1
 #Start
@@ -19,6 +19,7 @@ console load ABuffZucchiniCollab/1-Lobby/OldHorizon
    7,R
    1,J
   40
+
 #lvl_ABuffZucchini_OldHorizon_02
    1,R
   14,R,D,X
@@ -32,46 +33,61 @@ console load ABuffZucchiniCollab/1-Lobby/OldHorizon
    5,R,J
    1,R
    4,R,J
-  20,R,K
-  20,J,G
-  10,K
-   1,L,K
-   7,R,J
+  12,R,K
+   2,J,G
+   1,R,J,G
+   8,J,G
+   1,L,J
+  14,R,K,G
+   6,L,J
+   5,R,K
    7,R
    4,R,Z
    2,R,J
    8,R
    1,R,J
   40
+
 #lvl_ABuffZucchini_OldHorizon_03
   14,R,D,X
    1,R,J
-   7,R
-  38,R,J
-  28,R,U,G
-   1,R
-   2,R,J,G
-  38,R,K,G
-  30,R,U,G
-   1,R
-   1,J
-   1,R,K,G
-  11,L,K
-  14,U,X
-   1,J
-  11,R,J
-  40
-#lvl_ABuffZucchini_OldHorizon_04
-  11,R
+   5,R
   15,D,X
-   6,R,J
-  46,R,U,G
+  11,D
+  10,L,Z
+   1,R,J
+   7,R
+   2,R,J
+   7,R
+   9,R,U,X
+  31,R,K,G
+  35,R,U,G
+   2,R,G
+   1,L,K
+  11,R,K
+   1,J
+  16,R,K,G
+  10,R,J,G
+  40
+
+#lvl_ABuffZucchini_OldHorizon_04
+   1,R,K,G
+   3,L,K
+   2,L
+   3,R
+   2,R,K
+   1,R
+   5,R,J
+   5,G
+   3,R,G
+  38,R,U,G
    1,R
    1,J
   10,R,J
    9,R,K
    9,R,X
-  32,R,J,G
+  26,R,J,G
+   5,R
   11,R,U,X
    7,R,J,G
    7,R,X
@@ -140,28 +156,37 @@ console load ABuffZucchiniCollab/1-Lobby/OldHorizon
   40
 #lvl_ABuffZucchini_OldHorizon_07
    3,R,D,X
-  56,R,U,J,G
-  36,R,K,G
-  15,U,X
-   8,R
-  10,L,U,C
-   1,L,J,G
-  45
-   6,R
-  34,R,J
-  54,R,U,X,G
-   1,R
-   1,J
-   1,R,K,G
-   4,L,K
-  23,L
-  10,L,Z
-  20,R,J
-  15,U,X
-  90,R
+   6,R,U,J,G
+  43,R,U,G
+   4,R,K,G
   12,R,J,G
+   4,J
+   7,R,J,G
+  18,R,U,X
+  13,L,U,C
+   1,L,K,G
+   4,L
+  40
+  10,R,X
+  22,R,J
+   3,R,K,G
+   8,R,G
   12,R,K,G
-   6,R,J,G
+  30,R,U,G
+  10,K,G
+   1
+   2,L,G
+  13,U,X
+  11,J
+   3
+   3,R
+   1
+   4,R
+  26,R,J
+   2,J
+   6,R,J
+  12,R,K,G
+   1,R,J,G
   40
 #lvl_ABuffZucchini_OldHorizon_08
    5,R
