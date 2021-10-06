@@ -1,9 +1,12 @@
+#by Lmjacks
+
 console load ABuffZucchiniCollab/1-Lobby/Reversal
    1
 
 #Start
-#lvl_ABuffZucchini_Reversal_01
  118
+
+#lvl_ABuffZucchini_Reversal_01
    6,R,Z
    1,R,J
    3,R
@@ -178,6 +181,7 @@ console load ABuffZucchiniCollab/1-Lobby/Reversal
   16,R,Z
   22,R,X
    1,R
+***S
    5,R,Z
    1,R,J
    1,R,K,G

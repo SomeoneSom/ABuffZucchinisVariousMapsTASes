@@ -2,8 +2,118 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
    1
 
 #Start
-#lvl_ABuffZucchini_AboveTheSummit_01
   61
+
+#lvl_ABuffZucchini_AboveTheSummit_01
+   1,L,J
+  10,R,D,X
+   7,R,J
+  27,R,X
+  33,U,C
+  17,R,D,X
+  39,R,C
+   8,R,J
+  30,R,K
+  18,R,X
+  18,R,C
+   8,R,Z
+   1,R,J
+   5,R
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_02
+   2,R
+   1,R,J
+  45,R,D,X
+  40,D,C
+  21,R,U,X
+  36,R,C
+   4,R,J
+  20,R,K
+  15,R,U,X
+  14,R,Z
+   1,R,J
+   1,R,K,G
+   2,R
+   3,R,J,G
+   7,R
+   1,R,J
+   6,R,K,G
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_03
+   7,R,K
+  15,R,D,X
+  15,R,J
+  27,R,Z
+  15,L,U,C
+   4,R,J
+  11,R,K
+  15,R,X
+  18,R,C
+   4,R,J
+  11,R,K
+  15,R,D,X
+  18,R,D,C
+  15,R,D,X
+  12,R,U,C
+   1,R,J,G
+   8,R
+   2,R,K
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_04
+   2,R
+   1,R,J
+   3
+   1,R,K,G
+   2,R
+   1,R,J,G
+   3
+   6,R
+   4,R,D
+   3,R,J
    1,J
+   6,R,J
+   5,R
+   6,R,K
+   5,R,D,X
+  30,R,D
+#0:12.920(760)
+   8,R
+  34,F,65
+   1,F,70
+   5,F,90
+#0:13.736(808)
+#2555 xpos
+ 100
 
 
+#alt feather start
+#-2px xpos
+
+#lvl_ABuffZucchini_AboveTheSummit_04
+   2,R
+   1,R,J
+   3,R
+   1,R,K,G
+   2,R
+   1,R,J,G
+   9,R
+   8,R,J
+   3,R
+   2
+  14,R,Z
+  32,R,D
+   5,D
+   1,F,157.3
+   4,R,D
+   8,R
+  25,F,59
+   1,F,60.4
+   5,F,90
+#0:13.736(808)
+#2553.82 ypos
+
+
+ 100,R
