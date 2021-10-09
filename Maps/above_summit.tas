@@ -49,8 +49,8 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
   15,L,U,C
    4,R,J
   11,R,K
-  15,R,X
-  18,R,C
+   6,R,X
+  24,R,C
    4,R,J
   11,R,K
   15,R,D,X
@@ -79,41 +79,244 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
    6,R,K
    5,R,D,X
   30,R,D
-#0:12.920(760)
    8,R
-  34,F,65
-   1,F,70
-   5,F,90
-#0:13.736(808)
-#2555 xpos
- 100
-
-
-#alt feather start
-#-2px xpos
-
-#lvl_ABuffZucchini_AboveTheSummit_04
-   2,R
+  34,F,65.3
+   1,F,69.5
+  17,F,90
+  21,R,D,X
+  74,L,D
+  18,L,U,X
+   4,L,J
+   4,Z
+   3,L,J
+   3,J
+   4
+   1,L
+  12,L,D,X
+  28,R,C
+   4,R,J
+   1,R,K
+  23,R,D,X
    1,R,J
+   1,J
+   1,R,J
+   7,R,D,X
+   3,R,J,G
+   1,R,K,G
+   6,R
+   1,R,K
+   4,R
+   1,R,J
+   4,R
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_05
+   7,R
+  26,R,X
+   5,R,D,C
+   4,R,J
+   1,R,K
+   2,R
+  15,R,Z
+  19,U,X
+  13,R
+  24,R,U,Z
+  11,R,X
+   1,R,J
+   5
+   7,R
+   1,R,D
+   5,R,X
+   8,R,C
+   4,R,J
+   4,R
+   2
+  10,R,D
+   4,D
+   1
+  15,R,Z
+  15,D,X
+   7,L,D,C
+   1,R,J
+   7,R
+  16,R,D,X
+   5,R,J
+   5,R,D,X
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_06
+  10,R,D,X
+   2,J
+  32,D
+   1,L,D
+   1,D
+  15,R,D
+  22,R,U,X
+  24,R,C
+   4,R,J
+  15,R,Z
+  15,D
+   1,R,D
+   1,D
+  13,R,D
+   4,R
+  52,R,Z
+   4,R,J
+   3,R,K
+  15,R,D,X
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_07
+   7,R,J
+  34,R,U,X
+  24,R,C
+   4,R,J
+  12,R,K
+   8,R
+   2,R,J
    3,R
+  28,R,X
+   6,R,U,C
+   4,R,J
+   8,R,K
+   1,R
+  10,R,Z
+  17,R,X
+   4,R,J
+  30,R,K
+   8,U,X
+  19,U,C
+   7,R
+   2
+  15,R,Z
+  20,R,U,X
+   4,L,J
+   9,L,K
+  22,L,D
+   5,R,X
+  20,R,C
+   4,R,J
+  13,R,K
+  15,R,D,X
+  15,R,D,C
+   3,R
+   1,R
+  12,R,D,J
+  14,U,X
+   7,R,J
+  11,U,X
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_08
+   2,L,J
+   9,J
+  25,U,Z
+  36,L,C
+   8,L,J
+  11,L,K
+   4,K
+   1,L,K
+   1,K
+  39,U,X
+  25,R,U,C
+   4
+  13,L,U,Z
+  29,R,X
+   8,R,J
+   6,K
+   1,R,K
+  15,U,X
+  18,U,C
+  14,U,X
+  27,L,U
+  19,F,275
+   1,F,271
+   8,F,225
+  34,F,195.7
+   2,F,180
+  15,R,X
+  37,U,C
+  15,U,X
+  44,U,C
+   7,L
+  32,D
+  14,R,X
+  16,R,D,C
+   5,J
+  38,U,Z
+  23,L,C
+   4,L,J
+  15,U,X
+  14,R,U,Z
+  27,R
+   5,F,104
+   4,F,90
+   1,F,87
+   8,F,47
+  10,F,27
+   1,F,25
+   8,F,340
+   7,F,300
+   8,F,269
+  28,F,254
+   7,F,270
+   6,U,Z
+  37,U,C
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_09
+  13,R,J,G
+  15,U,X
+  29,L,U,C
+   4,R,J
+  11,R,K
+  36,R,X
+  45,L,U,C
+   6
+  15,U,X
+   1,R
+  15,U,C
+   1,R
+  12,R,J
+  16,R,U,X
+  36,R,C
+***S
+   4,R,J
+   6,R,K
+  15,R,D,X
+   1,R,J
    1,R,K,G
    2,R
-   1,R,J,G
-   9,R
-   8,R,J
-   3,R
-   2
-  14,R,Z
-  32,R,D
-   5,D
-   1,F,157.3
-   4,R,D
-   8,R
-  25,F,59
-   1,F,60.4
-   5,F,90
-#0:13.736(808)
-#2553.82 ypos
+   3,R,K,G
+   1,R
+  40
+
+#lvl_ABuffZucchini_AboveTheSummit_10
+   7,R
+   2,R,J
+   6,R
+  15,R,U,X
+  15,U,Z
+***S
+  27,R,D
+   7,F,115.5
+  25,F,98
+   1,F,97.2
+   8,F,45
+  23,F,30
+   1,F,32
+  10,F,90
+   2,F,94
+   7,F,135
+   6,F,165
+  29,F,185
+   1,F,187
+  10,L,D
+   5,L,Z
+   8,R,X
+   4,R,J
+  20,R,K
+ 100,F,
 
 
- 100,R
+ 100
