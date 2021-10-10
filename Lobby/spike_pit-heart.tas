@@ -1,0 +1,50 @@
+console load ABuffZucchiniCollab/0-Lobbies/1-Lobby 56 1280
+   1
+
+#Start
+#lvl_LobbyRoom
+  36
+   1,Q
+   1,J
+  31
+
+#lvl_LobbyRoom
+ 190
+   4,Z
+   7,L,J
+   1,L,K,G
+   2,L
+#comment out the
+#next three lines
+#if gate is open
+   1,S
+   1,D,J
+  34
+   4,L
+   1,L,K,G
+  12,L
+   7,L,J
+   7,L,D,X
+   1,L,J,G
+  12,L
+   1,L,J
+  40
+
+#lvl_LobbyRoom_SpecialSecret
+   9,L,J
+   5,L
+   4,L,K
+  11,L,J
+  11,U,X
+   4
+
+#lvl_LobbyRoom_SpecialSecretB
+1026
+  40
+
+#lvl_LobbyRoom_SpecialSecretC
+  73
+   7,J
+  15,U,X
+ 136
+#0:24.531(1443)
