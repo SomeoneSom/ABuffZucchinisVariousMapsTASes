@@ -3,9 +3,11 @@ RecordCount: 1259
 ChapterTime: 1:12.607(4271)
 console load ABuffZucchiniCollab/1-Lobby/TheComplex
    1
+
 #Start
-#lvl_ABuffZucchini_TheComplex_01
   76
+
+#lvl_ABuffZucchini_TheComplex_01
   10,R,X
   18,R,J
   13,R,K,G
