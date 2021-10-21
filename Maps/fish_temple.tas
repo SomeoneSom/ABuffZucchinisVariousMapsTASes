@@ -1,19 +1,21 @@
-RecordCount: 779
-#TASers: Lost in Nowhere
+#TASers: Lmjacks, Lost in Nowhere
+RecordCount: 1486
+ChapterTime: 0:54.553(3209)
 
 console load ABuffZucchiniCollab/1-Lobby/CrimsonTemple
    1
 
-#start
-#lvl_ABuffZucchini_CrimsonTemple_01
+#Start
  190
+
+#lvl_ABuffZucchini_CrimsonTemple_01
   12,R,J
-  12,R,K
-  15,U,X
-  40,R,J
-  10,R
-  15,R,X
-   8,R
+   4,R,K
+   3,K
+   1,R
+  16,U,X
+  47,R
+  24,R,X
    5,R,Z
    1,R,J
    7,R
@@ -22,7 +24,7 @@ console load ABuffZucchiniCollab/1-Lobby/CrimsonTemple
   14,R,D,X
    1,R,J
    1,R,K
-   7,R,D,X
+   9,R,D,X
   43
 
 #lvl_ABuffZucchini_CrimsonTemple_02
@@ -30,57 +32,67 @@ console load ABuffZucchiniCollab/1-Lobby/CrimsonTemple
    3,R,J
   10,R,K,G
    9,R
-   8
-   9,L
-  12,L,X
-  27,R,J
-  15,R,Z
-   2,R
-   8,R,J,G
+  13,D
+   2,R,D
+   1,D
+  11,L,X
+  22,R,J
+   4,R
+  16,R,Z
+   1,R,J,G
+   4,L,J
+   4,R,J
    8,R
-  11,R,Z
+  10,R,D,X
    1,R,J
+   1,R
    1,R,K
    1,R,J,G
-  10,R
+   9,R
+   1,R,K
   40
 
 #lvl_ABuffZucchini_CrimsonTemple_03
+   1,K
    3,R
-   4,R,J
-   7,R
-   8,R,Z
-  16,R,J
+   6,R,J
    1,R
+  11,R,Z
+   5,J
+  13,R,J
    8,R,K,G
    3,R,J,G
-  11,J
-  18
+   9,J
+   8
+   3,K
+  10
    3,L,J
-
-  14
-  23,R,G
+  12
+  17,R,G
    1,K,G
-  17,L,K
+   2,L,K
+  15,L,J
   14,U,X
    1,R,J
    1,L,K,G
-#using the midair jump here results
-# in 900 speed but you just die
-  17,R,K
+   8,R,K
+   8,K
+   1,R,K
   30,L
   14,U,X
-  30,L
-  16,U,X
-  10,L,J
-   7,L
-   5,R,X
+  29,L
+  15,U,X
+   9,L,J
+   5,L
+   2,L,K
+   1,L
+   4,L,X
   11,L,J
    2,L
-   2,R
-   6,L
-   1,J
-   8,L,J
+   1,R
+   4,L
+   4,L,J
+   4,J
    6,L,U,Z
   40
 
@@ -89,25 +101,23 @@ console load ABuffZucchiniCollab/1-Lobby/CrimsonTemple
    2,J
   12,R,K,G
   10,J,G
-   3,K,G
-   1,L,K
-  26,L,J
-   9,L
-  15,L,Z
-   5
-   4,L
+   1,L,J
+   1,L
+  34,L,K
+  21,L,Z
+   3
   44,L
-  40,L,J
-  16,L
-  10,L,J,G
-  11,K,G
-   2,L,K
+  50,L,J
+   3,L,D
+   7,L,K,G
+  10,J,G
+   2
   15,L,Z
-   8,R,J
+   1,R,J
+   4,R
   11,L
-  15,L,D,X
-   9,L,D
-   4,L,Z
+  23,L,D,X
+   5,L,Z
    1,L,J
    5,L
   40
@@ -116,88 +126,88 @@ console load ABuffZucchiniCollab/1-Lobby/CrimsonTemple
    1,L
    5,L,J
   11,L
-   1,L
-   5,L,J
-   9,L
-   8,L,X
-  16,L,J
-   1,R,K,G
-   1,R,J,G
-  13,R,J
-   1,R,K,G
-   1,R
+  14,L
+  17,L,X
+   3,L,J
+  14,R,J
   12,R,Z
-  27,R,J
+  26,R,J
   13,U,X
-  18,R,J
-   1,R,K
-   4,R
+  15,R,J
+   7,R,K
   28,L
   14,L,U,X
    1,L,J,G
-  10,L
-   1,L,J
    9,L
+   2,L,J
+   8,L
+   1
    8,L,U,Z
   40
 
 #lvl_ABuffZucchini_CrimsonTemple_06
    3,L,U,Z
-   1,J
-   6,R,J
-  10,K,G
-   2,R,K
-  10,J,G
+   6,J
    1,L,J
-  25,L,K
-  15,L,U,X
-  18,L
-  33,L,J
-  13,K
-  15,U,X
-  11,R,J,G
-   2,R,K,G
-   7,R
-   4,R,Z
+   6,R,K,G
+   5,K,G
+   1,R,K
+   4,J,G
+   1,L,J
    1,R,J
+   2,K,G
+  25,L,K
+  33,L,U,X
+  26,L,J
+   4,L
+  13,K
+  15,U,Z
+   1,R,J,G
+   3,L,J
+   4,R,J
    7,R
    1,R,J
    1,R
+   6,R,Z
+   1,R,J
+   6,R
+   1,R,J
    1,R,K
   14,R,D,X
    1,R,J
    1,R,K
-  10,R,D,X
+  11,R,D,X
    1,R,J
   40
 
 #lvl_ABuffZucchini_CrimsonTemple_07
    7,R
   12,R,J
-   4,R,Z
-   9,R,J
-   3,L,J
-  25,L
-   4
-  14,R
-  44,U,G
-   2,K,G
-   9,J,G
-   9,L,J
-  20,R,K
-   7,R,J
-   8,R
-  10,L,J
-   4,L
-   4,L,J
-   8,L
-  15,L,X
-   3,L
-  22,L,J
-   4,L,J
-  13,L,K
-  27,L,J
-   9,L
+  17,R
+  26,R,U,Z
+  28,R,J
+   1,J
+   8,L,J
+   1,R,J
+   1,L,J
+   6,L
+  13
+   1,L
+   1
+   1,L
+   1
+   2,L
+  17,L
+   6,L,X
+   1,L,J
+   3,J
+  17,R,K,G
+   1,R,J,G
+   1,K
+   3,J,G
+   1,L,J
+   5,L,K
+  34,L,J
    4,L,Z
    1,L,J
    7,L
@@ -348,5 +358,5 @@ console load ABuffZucchiniCollab/1-Lobby/CrimsonTemple
   15,R,Z
   66,L
   70,L,J
-   1
-ChapterTime: 0:56.831(3343)
+#0:54.553(3209)
+  60
