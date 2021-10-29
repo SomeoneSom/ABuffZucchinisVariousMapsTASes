@@ -1,6 +1,6 @@
 #TASers: Lmjacks, atpx8 and abiteofdata
-RecordCount: 2731
-ChapterTime: 1:08.969(4057)
+RecordCount: 3617
+ChapterTime: 1:04.617(3801)
 console load ABuffZucchiniCollab/1-Lobby/IceFortress
    1
 
@@ -310,107 +310,122 @@ console load ABuffZucchiniCollab/1-Lobby/IceFortress
    2,R,J
    3,R,K,G
   28,R,X
-   4,J
-  55,U,C
+   4,L,J
+  55,U,X
   40
 
 #lvl_ABuffZucchini_IceFortress_06
-  11,R
-  15,D,X
-   8,R,J
-  14,R,Z
-  26,R,J
-  14,U,X
-   1,J
-  36,L,J
-  25,L,G
-  10,L,U,G
-   1
-   1,K
-   1,L,J,G
-   2,R,J
+  11,L
+  15,R,D,X
+   5,L,J
+   2,R
+   7,R,Z
+   1,R,J
+   6,R
+   3,R,D
+  15,R,D,J
+   2,J
+   9,U,X
+  38,L,J
+  19,G
+  15,U,G
+   2,L
+   1,J,G
+   1,K,G
   22,R,D,X
-  12,R,J
-  19,R
-  18,U,X
+   7,R,J
+   5,R
+   6,R,K
+   1,R
+   2,R,K
+   4,R
+  17,U,X
   10,L
-  11,L,Z
+  14,L,Z
    3,L,J
-   2,L
-   3,L,J
+   1,L
+   2,L,J
   11,L,K,G
-   7,L
-  15,L,X
-  29,L,U,G
-   9,L,G
-   2,L,J,G
-   5,R,K
-  17,R,G
-   7,R,J,G
-   5,K
-   6,R,X
-   1,R,K,G
-  31,R,D
-  18,R
-   9
-  10,L,D,X
+   5,L
+  10,L,J
+   1,J
    1,L,J
-   2,L
+   1,J
+  11,U,X
+  14,L,J
+  11
+   1,R,G
+  11,J,G
+   4
+   3,K
+   5,R,X
    1,R,K,G
-  29,L,D,X
-   7,L
-  20,L,J
+  30,R,D
+  15,R
+   1
+   1,R
+   4
+   1,R
+   1
+   1,R
+  12,L,D,X
+   1,L,J
+   1,R,J
+   1,K,G
+  25,L,D,X
+  14,L
+   3,L,D,J
+  10,L
   40
 
 #lvl_ABuffZucchini_IceFortress_07
-   3,L,J
-   1,J
-  13,L,J
-  15,L,X
-  16,R,D
-   7,D
-  16,L,D
-   1,L,J,G
-   5,L,K,G
-  13,L
-  14,L,Z
-  49,L,J
-  32,L,U,X
-   1,J,G
-   1,R
-   7,R,K
-  16,R,U,Z
-   3,L,K,G
-   3,R
-  20,L,D
-   4,D
-  15,L,U,Z
-   5,R
-   2,R,K,G
-   5,K,G
-   7,J,G
-   1,L,J
-   2,R,J
-   2,L,J
-  14,K,G
-  10,L,J,G
-  30,L,D
-   4,L,K
-  14,L,U,X
-   7,J,G
-   9,K,G
-   3,R,K,G
-  11,J,G
-   1,L,J,G
-   4,K,G
-  11,J,G
-   1,R,J,G
-   6,K,G
-  11,J,G
-   1,L,J,G
-  12,L,K,G
-   4,L,J,G
+   2,L
+   7,L,K
+  12,L
+   4
    1,L
+  18,D,X
+  16,L
+   1,L,J,G
+   6,L,K,G
+   6,L
+   5,L,J
+   1
+   1,L
+   2
+   1,L
+  14,L,Z
+  24,L,J
+  39,L,U,Z
+   6,J
+  22,L,D
+   2,L
+  18,L,X
+   1,J,G
+  15,U,X
+   8,J,G
+  12,K,G
+   1,L,J,G
+   1,R,J
+  10,L,J
+   1
+   1,L
+  19,L,D,X
+  17,L,U,C
+   2,L,J,G
+   1,R,J
+   4,J
+   9,K,G
+   8,J,G
+   2,L,J
+  11,K,G
+   1,R,K
+  10,J,G
+  11,K,G
+   1,L,K
+   1,J,G
+  12,L,J,G
+   4,L,K,G
    5,L,Z
    1,L,J
    6,L
@@ -418,72 +433,86 @@ console load ABuffZucchiniCollab/1-Lobby/IceFortress
   18,L,D,X
   32,L,J
    1,L,K,G
-   3,R,K,G
-   2,L,K,G
+   2,K
+   3,R,K
    1,L,J,G
    1,L,K,G
    1,L,J,G
   13,L
-   3,L,J
-  25,L,D
+   2,L,J
+   5,L
+   2,L,K
+  18,L,D
    1,J
-  28,D
-   6,L,D
-  35,D
-   4,R,Z
-  12,R,J
-  15,R
-   3,R,D
-   1,D
-   2,R,D
-   2,L,D
-  18,R,J
-  37,R,U,G
-   1,R
+  53
+  13,R
+   1
+   9,R,Z
+  34,R,J
+   2,J
+   1,G
+  34,U,G
+   1,J,G
+   1,K,G
+   3,R,J,G
+  10,L,J
    1,J
-   1,R,K,G
-  30,L,K
-   6,L,U,Z
-   3,L,J,G
-  16,L
-   1,L,J
-  10,L
+  10,L,J
+   8,L,Z
+   1,L,J,G
+  14,L
+   6,L,J
+   3,L
   40
 
 #lvl_ABuffZucchini_IceFortress_08
    4,L
-  19,L,J
-  15,L,U,X
-   6,L,J
-  21,R,K
-  22
-  10,L,U,X
-   6,L,J
-  21,R,K
-  20,D
-   4,R
-  11,L,U,X
+   1,L,K
+   1,L
+   1,L,K
+   4,L
+  20,L,U,X
    4,R,J
-   7,R,Z
-  19,R,J
-  15,R
-  14,R,D
+  10
+   3,L
+   8
+  12,L,U,X
+   4,R,J
+   2,R
+   5,R,Z
+   1,R,J
+  25,R,D
+   5,D
   10,R,D,X
    1,L,J
   21,L,D
-  36,L,X
+  26,L,X
    4,L,J
    7,L,Z
-  27,L,K
-  24,U,X
-  10,R,Z
-   5,R,J
-  18,U,X
-  15,U,C
-  14,R
-  37,R,D,X
-   7,L,J
-  29,L,K
-  70,U,X
-#1:08.969(4057)
+  38,L,J
+  31,U,X
+  20,R,C
+   4,L,G
+   1,K,G
+   1,R,K
+   1,L,J,G
+   1,L,K,G
+   7,K
+   1
+  22,L,X
+   4,R,J
+   7,J
+  59,U,X
+   1,J
+   6
+   1,K
+   3,L
+   4
+   1,J
+   9
+   1,K
+  14
+   1,J
+  17,R
+#1:04.617(3801)
   60
