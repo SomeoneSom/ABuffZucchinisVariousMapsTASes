@@ -1,0 +1,65 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#Use the bindings in
+#the CelesteTAS readme
+#Change your default map to... 
+#ABuffZucchini's Various Maps
+#Start from Begin
+
+Unsafe
+EnforceMaingame
+   1
+
+#Start
+
+Read,StartFullLobbyFile
+
+Read,Lobby\start-old_horizon,Start
+Read,EnterLevel
+Read,Maps\old_horizon,Start
+Read,ExitLevel
+
+Read,Lobby\old_horizon-abyss,Start
+Read,EnterLevel
+Read,Maps\abyss,Start
+Read,ExitLevel
+
+Read,Lobby\abyss-above_summit,Start
+Read,EnterLevel
+Read,Maps\above_summit,Start
+Read,ExitLevel
+
+Read,Lobby\above_summit-complex,Start
+Read,EnterLevel
+Read,Maps\complex,Start
+Read,ExitLevel
+
+Read,Lobby\complex-reversal,Start
+Read,EnterLevel
+Read,Maps\reversal,Start
+Read,ExitLevel
+
+Read,Lobby\reversal-ice_fortress,Start
+Read,EnterLevel
+Read,Maps\ice_fortress,Start
+Read,ExitLevel
+
+Read,Lobby\ice_fortress-fish_temple,Start
+Read,EnterLevel
+Read,Maps\fish_temple,Start
+Read,ExitLevel
+
+Read,Lobby\fish_temple-windchill,Start
+Read,EnterLevel
+Read,Maps\windchill,Start
+Read,ExitLevel
+
+Read,Lobby\windchill-spike_pit,Start
+Read,EnterLevel
+Read,Maps\spike_pit,Start
+Read,ExitLevel
+
+Read,Lobby\spike_pit-heart,Start
+  60
+   1,J
+ 196
