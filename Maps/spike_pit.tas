@@ -1,6 +1,6 @@
 #TASers: Lmjacks, a jojo weeb, atpx8, and abiteofdata
-RecordCount: 2206
-ChapterTime: 0:59.534(3502)
+RecordCount: 2245
+ChapterTime: 0:59.517(3501)
 console load ABuffZucchiniCollab/1-Lobby/SpikePit
    1
 
@@ -254,8 +254,11 @@ console load ABuffZucchiniCollab/1-Lobby/SpikePit
   40
 
 #lvl_ABuffZucchini_SpikePit_06
-   3,U,X
-  20,L,J
+   1,L
+   2
+   1,L
+  15,L,J
+   3,J
    1,K
    9,R,K
    8,R
@@ -504,5 +507,5 @@ console load ABuffZucchiniCollab/1-Lobby/SpikePit
   15,D,X
   50,U
  150,U,X
-#0:59.534(3502)
+#0:59.517(3501)
   60
