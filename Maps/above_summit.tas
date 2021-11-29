@@ -213,6 +213,7 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
    2,L,J
    9,J
   25,U,Z
+
   36,L,C
    8,L,J
   11,L,K
@@ -321,24 +322,16 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
   35
    4,R
   15,D,X
-  13,R,D
-   2,R
-   1,R,D
-   2,R
-   6
-   3,R
-  27,R,U
-   7,F,45
-   2,F,55
-  54,F,68.95
-  13,F,87.6
-   2,F,90
-  27,F,116
-   1,F,113
-  25,F,90
-   1,F,88.3
-  15,F,64
-  20,U,X
+   5,D
+  21,R,D
+  32,R,U,X
+  52,F,70.8
+  18,F,90
+  11,F,110
+   9,F,134
+  36,F,90
+  13,F,69
+  21,U,X
   54,R,C
    4,R,J
    6,R,K
@@ -370,11 +363,13 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
    1,R,J,G
    1,R
    1,R,K,G
-   2,R,J,G
+   1,R,J,G
+   1,R,J
    1,R,K,G
    7,R,D
    8,R
-  35,R,J
+  26,R,J
+   9,R,J
   15,U,X
    3
   24,L,D
@@ -394,44 +389,37 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
    5,R,J
    6,L,J
    3,L
-   5
-   1,R
+   5,X
+   1,R,X
    1,L
-  24,G
-  12,R
-   4,R,D
-   1,R
-  13,L,X
-   1,J,G
-   1
-  13,L,Z
-   2,R,J
+  15,G
+   1,K
+  24,R
+  15,L,X
+  14,L,Z
+   1,R,J
    5,R,D,X
    1,R,J,G
    1,R,K,G
    2,R,J,G
-   3,R,K
-   3,K
-   6,R,K
-   5,R
-   1,R,J
-   9,R
+   1,R
+  28,R,J
   14,R,X
-   4,R,J,G
-   2,R,K,G
+   3,R,K,G
+   5,R,U,X
   40
-
+ 
 #lvl_ABuffZucchini_AboveTheSummit_11
-   9,R,K
-   3,R,J,G
-   2,K
+   6,R,U,X
+   3,R,K,G
+   1,R
   15,R,U,X
   15,U,C
   10,R
    4,J
   15,U,X
   15,U,C
-  10,R
+  10
    4,L,J
   15,U,X
   15,U,C
@@ -444,5 +432,5 @@ console load ABuffZucchiniCollab/1-Lobby/AboveTheSummit
   15,U,X
    6,U,C
  135
-#1:20.138(4714)
+#1:19.968(4704)
   60

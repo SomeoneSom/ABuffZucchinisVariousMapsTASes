@@ -14,6 +14,10 @@ EnforceMaingame
 
 Read,StartFullLobbyFile
 
+#frame added to make
+#final time 10:29.000
+   1
+
 Read,Lobby\start-old_horizon,Start
 Read,EnterLevel
 Read,Maps\old_horizon,Start
